@@ -1,0 +1,17 @@
+[
+  {
+    "titulo": "GeoTurismo Atacama",
+    "detalle": "Tours en Caldera y Bahía inglesa",
+    "icono": "fa-regular fas fa-ship"
+  },
+  {
+    "titulo": "Senderismo",
+    "detalle": "Camina por senderos naturales",
+    "icono": "fa-regular fas fa-hiking"
+  },
+  {
+    "titulo": "Tour Fotográfico",
+    "detalle": "Captura los mejores momentos",
+    "icono": "fa-regular fas fa-camera"
+  }
+]
