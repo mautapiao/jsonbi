@@ -1,0 +1,16 @@
+[
+  {
+    "icono": "fa-regular fa-building",
+    "titulo": "Tú empresa puede estar aquí",
+    "descripcion": "Pública en nuestro sitio",
+    "btnTexto": "Ver publicidad",
+    "headerStyle": "background: linear-gradient(135deg, #3498DB, #2980B9);"
+  },
+  {
+    "icono": "fa-regular fa-lightbulb",
+    "titulo": "Tú emprendimiento puede estar aquí",
+    "descripcion": "Pública en nuestro sitio",
+    "btnTexto": "Ver publicidad",
+    "headerStyle": "background: linear-gradient(135deg, #27AE60, #229954);"
+  }
+]
