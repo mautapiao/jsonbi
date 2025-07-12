@@ -1,0 +1,16 @@
+ [
+    {
+      "fecha": "07/06/2025",
+      "autor": "Equipo Bahia",
+      "titulo": "¡Bienvenidos!",
+      "texto": "Descubre toda la oferta turística de nuestra región: playas, gastronomía, hospedaje, aventuras y cultura. Este sitio está diseñado para ayudarte a planificar tu próxima escapada. ¡Y no olvides suscribirte a nuestro boletín para recibir novedades y promociones exclusivas!",
+      "ruta": "bienvenidos"
+    },
+    {
+      "fecha": "07/06/2025",
+      "autor": "María González",
+      "titulo": "Nueva ruta turística en la costa sur",
+      "texto": "El Ministerio de Turismo ha inaugurado una nueva ruta costera con miradores, áreas verdes y acceso a playas escondidas...",
+      "ruta": "noticias"
+    }
+  ]
