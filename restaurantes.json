@@ -1,1 +1,16 @@
-
+ [
+    {
+      "nombre": "El Plateao",
+      "descripcion": "Especialidad en mariscos frescos frente a la playa. Ambiente familiar y vista al atardecer.",
+      "ciudad": "Bahía Inglesa",
+      "imagen": "img/elplateado.png",
+      "instagram": "https://www.instagram.com/elplateaoatacama/?hl=es"
+    },
+    {
+      "nombre": "Coral Restaurant",
+      "descripcion": "Propuesta gastronómica basada en cocinas populares y productos del mar.",
+      "ciudad": "Bahía Inglesa",
+      "imagen": "img/coralbahia.png",
+      "instagram": "https://www.instagram.com/coraldebahia/?hl=es"
+    }
+  ];
