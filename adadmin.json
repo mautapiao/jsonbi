@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "createdAt": "2025-10-15",
+    "user": {
+      "name": "Juan Perez",
+      "email": "juan.perez@mail.com"
+    },
+    "category": "Restaurant",
+    "imageUrl": "img/elplateado.png",
+    "startDate": "2025-11-01",
+    "endDate": "2025-12-31",
+    "description": "Promoción de verano",
+    "amount": 120000,
+    "isApproved": true,
+    "editLink": "/admin/adsedit",
+    "active": true
+  },
+  {
+    "id": 2,
+    "createdAt": "2025-10-14",
+    "user": {
+      "name": "Maria Gonzalez",
+      "email": "maria.gonzalez@mail.com"
+    },
+    "category": "Evento",
+    "imageUrl": "img/copa_bahia.png",
+    "startDate": "2025-11-15",
+    "endDate": "2025-11-20",
+    "description": "Festival de música",
+    "amount": 80000,
+    "isApproved": false,
+    "editLink": "admin_ads_editar.html",
+    "active": true
+  },
+  {
+    "id": 3,
+    "createdAt": "2025-10-13",
+    "user": {
+      "name": "Carlos Lopez",
+      "email": "carlos.lopez@mail.com"
+    },
+    "category": "Tour",
+    "imageUrl": "img/festival_xii.png",
+    "startDate": "2025-12-01",
+    "endDate": "2025-12-10",
+    "description": "Tour por playas",
+    "amount": 150000,
+    "isApproved": true,
+    "editLink": "admin_ads_editar.html",
+    "active": true
+  },
+  {
+    "id": 4,
+    "createdAt": "2025-10-13",
+    "user": {
+      "name": "Carlos Lopez",
+      "email": "carlos.lopez@mail.com"
+    },
+    "category": "Tour",
+    "imageUrl": "img/playas.png",
+    "startDate": "2025-12-01",
+    "endDate": "2025-12-10",
+    "description": "Tour por playas",
+    "amount": 150000,
+    "isApproved": true,
+    "editLink": "admin_ads_editar.html",
+    "active": true
+  }
+]
