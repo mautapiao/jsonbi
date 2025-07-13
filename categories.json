@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Restaurant",
+    "description": "Avisos relacionados a gastronomia de bahía inglesa",
+    "isActive": true
+  },
+  {
+    "id": 2,
+    "name": "Eventos",
+    "description": "Avisos relacionados a eventos, ferias etc.",
+    "isActive": true
+  },
+  {
+    "id": 3,
+    "name": "Tour",
+    "description": "Avisos relacionados con oferta tours.",
+    "isActive": true
+  }
+]
