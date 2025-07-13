@@ -1,0 +1,41 @@
+{
+"tours":[
+  {
+    "titulo": "GeoTurismo Atacama",
+    "detalle": "Tours en Caldera y Bahía inglesa",
+    "icono": "fa-regular fas fa-ship"
+  },
+  {
+    "titulo": "Senderismo",
+    "detalle": "Camina por senderos naturales",
+    "icono": "fa-regular fas fa-hiking"
+  },
+  {
+    "titulo": "Tour Fotográfico",
+    "detalle": "Captura los mejores momentos",
+    "icono": "fa-regular fas fa-camera"
+  }
+],
+  "restaurantes":[
+    {
+      "nombre": "El Plateao",
+      "descripcion": "Especialidad en mariscos frescos frente a la playa. Ambiente familiar y vista al atardecer.",
+      "ciudad": "Bahía Inglesa",
+      "imagen": "img/elplateado.png",
+      "instagram": "https://www.instagram.com/elplateaoatacama/?hl=es"
+    },
+    {
+      "nombre": "Coral Restaurant",
+      "descripcion": "Propuesta gastronómica basada en cocinas populares y productos del mar.",
+      "ciudad": "Bahía Inglesa",
+      "imagen": "img/coralbahia.png",
+      "instagram": "https://www.instagram.com/coraldebahia/?hl=es"
+    }
+  ],
+
+
+
+  
+  
+  
+}
