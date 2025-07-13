@@ -6,7 +6,7 @@
       "fullName": "Administrador Sistema",
       "role": "ADMIN",
       "roleClass": "bg-danger",
-      "createAt": "01/01/2025",
+      "createdAt": "01/01/2025",
       "status": "Activo",
       "statusClass": "bg-success",
       "profileLink": "admin_perfil.html"
@@ -18,7 +18,7 @@
       "fullName": "Juan Perez Gonzalez",
       "role": "USUARIO",
       "roleClass": "bg-primary",
-      "createAt": "15/02/2025",
+      "createdAt": "15/02/2025",
       "status": "Activo",
       "statusClass": "bg-success",
       "profileLink": "admin_perfil.html"
@@ -30,7 +30,7 @@
       "fullName": "Maria Soto Rojas",
       "role": "EDITOR",
       "roleClass": "bg-info text-dark",
-      "createAt": "20/03/2025",
+      "createdAt": "20/03/2025",
       "status": "Activo",
       "statusClass": "bg-success",
       "profileLink": "admin_perfil.html"
@@ -42,7 +42,7 @@
       "fullName": "Carlos Munoz Diaz",
       "role": "USUARIO",
       "roleClass": "bg-primary",
-      "createAt": "05/04/2025",
+      "createdAt": "05/04/2025",
       "status": "Inactivo",
       "statusClass": "bg-danger",
       "profileLink": "admin_perfil.html"
@@ -54,7 +54,7 @@
       "fullName": "Ana Contreras Silva",
       "role": "USUARIO",
       "roleClass": "bg-primary",
-      "createAt": "10/05/2025",
+      "createdAt": "10/05/2025",
       "status": "Activo",
       "statusClass": "bg-success",
       "profileLink": "admin_perfil.html"
@@ -66,7 +66,7 @@
       "fullName": "Luis Martinez Sepulveda",
       "role": "EDITOR",
       "roleClass": "bg-info text-dark",
-      "createAt": "22/06/2025",
+      "createdAt": "22/06/2025",
       "status": "Activo",
       "statusClass": "bg-success",
       "profileLink": "admin_perfil.html"
@@ -78,7 +78,7 @@
       "fullName": "Sofia Morales Rodriguez",
       "role": "USUARIO",
       "roleClass": "bg-primary",
-      "createAt": "01/07/2025",
+      "createdAt": "01/07/2025",
       "status": "Inactivo",
       "statusClass": "bg-danger",
       "profileLink": "admin_perfil.html"
@@ -90,7 +90,7 @@
       "fullName": "Diego Lopez Fuentes",
       "role": "USUARIO",
       "roleClass": "bg-primary",
-      "createAt": "18/08/2025",
+      "createdAt": "18/08/2025",
       "status": "Activo",
       "statusClass": "bg-success",
       "profileLink": "admin_perfil.html"
@@ -102,7 +102,7 @@
       "fullName": "Camila Hernandez Torres",
       "role": "ADMIN",
       "roleClass": "bg-danger",
-      "createAt": "03/09/2025",
+      "createdAt": "03/09/2025",
       "status": "Activo",
       "statusClass": "bg-success",
       "profileLink": "admin_perfil.html"
@@ -114,7 +114,7 @@
       "fullName": "Javier Araya Flores",
       "role": "USUARIO",
       "roleClass": "bg-primary",
-      "createAt": "15/10/2025",
+      "createdAt": "15/10/2025",
       "status": "Activo",
       "statusClass": "bg-success",
       "profileLink": "admin_perfil.html"
@@ -126,7 +126,7 @@
       "fullName": "Valentina Espinoza Valenzuela",
       "role": "EDITOR",
       "roleClass": "bg-info text-dark",
-      "createAt": "20/11/2025",
+      "createdAt": "20/11/2025",
       "status": "Activo",
       "statusClass": "bg-success",
       "profileLink": "admin_perfil.html"
@@ -138,7 +138,7 @@
       "fullName": "Matias Castillo Ramirez",
       "role": "USUARIO",
       "roleClass": "bg-primary",
-      "createAt": "02/12/2025",
+      "createdAt": "02/12/2025",
       "status": "Inactivo",
       "statusClass": "bg-danger",
       "profileLink": "admin_perfil.html"
@@ -150,7 +150,7 @@
       "fullName": "Isidora Reyes Gutierrez",
       "role": "USUARIO",
       "roleClass": "bg-primary",
-      "createAt": "10/01/2024",
+      "createdAt": "10/01/2024",
       "status": "Activo",
       "statusClass": "bg-success",
       "profileLink": "admin_perfil.html"
@@ -162,7 +162,7 @@
       "fullName": "Benjamin Castro Perez",
       "role": "USUARIO",
       "roleClass": "bg-primary",
-      "createAt": "25/01/2024",
+      "createdAt": "25/01/2024",
       "status": "Activo",
       "statusClass": "bg-success",
       "profileLink": "admin_perfil.html"
@@ -174,7 +174,7 @@
       "fullName": "Florencia Gonzalez Munoz",
       "role": "EDITOR",
       "roleClass": "bg-info text-dark",
-      "createAt": "08/02/2024",
+      "createdAt": "08/02/2024",
       "status": "Activo",
       "statusClass": "bg-success",
       "profileLink": "admin_perfil.html"
@@ -186,7 +186,7 @@
       "fullName": "Agustin Rojas Diaz",
       "role": "USUARIO",
       "roleClass": "bg-primary",
-      "createAt": "19/03/2024",
+      "createdAt": "19/03/2024",
       "status": "Inactivo",
       "statusClass": "bg-danger",
       "profileLink": "admin_perfil.html"
@@ -198,7 +198,7 @@
       "fullName": "Martina Soto Contreras",
       "role": "USUARIO",
       "roleClass": "bg-primary",
-      "createAt": "01/04/2024",
+      "createdAt": "01/04/2024",
       "status": "Activo",
       "statusClass": "bg-success",
       "profileLink": "admin_perfil.html"
@@ -210,7 +210,7 @@
       "fullName": "Vicente Silva Martinez",
       "role": "ADMIN",
       "roleClass": "bg-danger",
-      "createAt": "15/04/2024",
+      "createdAt": "15/04/2024",
       "status": "Activo",
       "statusClass": "bg-success",
       "profileLink": "admin_perfil.html"
@@ -222,7 +222,7 @@
       "fullName": "Emilia Sepulveda Morales",
       "role": "USUARIO",
       "roleClass": "bg-primary",
-      "createAt": "28/04/2024",
+      "createdAt": "28/04/2024",
       "status": "Activo",
       "statusClass": "bg-success",
       "profileLink": "admin_perfil.html"
@@ -234,7 +234,7 @@
       "fullName": "Joaquin Rodriguez Lopez",
       "role": "USUARIO",
       "roleClass": "bg-primary",
-      "createAt": "10/05/2024",
+      "createdAt": "10/05/2024",
       "status": "Inactivo",
       "statusClass": "bg-danger",
       "profileLink": "admin_perfil.html"
@@ -246,7 +246,7 @@
       "fullName": "Antonella Fuentes Hernandez",
       "role": "EDITOR",
       "roleClass": "bg-info text-dark",
-      "createAt": "22/05/2024",
+      "createdAt": "22/05/2024",
       "status": "Activo",
       "statusClass": "bg-success",
       "profileLink": "admin_perfil.html"
@@ -258,7 +258,7 @@
       "fullName": "Martin Torres Araya",
       "role": "USUARIO",
       "roleClass": "bg-primary",
-      "createAt": "03/06/2024",
+      "createdAt": "03/06/2024",
       "status": "Activo",
       "statusClass": "bg-success",
       "profileLink": "admin_perfil.html"
@@ -270,7 +270,7 @@
       "fullName": "Maite Flores Espinoza",
       "role": "USUARIO",
       "roleClass": "bg-primary",
-      "createAt": "17/06/2024",
+      "createdAt": "17/06/2024",
       "status": "Inactivo",
       "statusClass": "bg-danger",
       "profileLink": "admin_perfil.html"
@@ -282,7 +282,7 @@
       "fullName": "Lucas Valenzuela Castillo",
       "role": "USUARIO",
       "roleClass": "bg-primary",
-      "createAt": "01/07/2024",
+      "createdAt": "01/07/2024",
       "status": "Activo",
       "statusClass": "bg-success",
       "profileLink": "admin_perfil.html"
@@ -294,7 +294,7 @@
       "fullName": "Amanda Ramirez Reyes",
       "role": "EDITOR",
       "roleClass": "bg-info text-dark",
-      "createAt": "15/07/2024",
+      "createdAt": "15/07/2024",
       "status": "Activo",
       "statusClass": "bg-success",
       "profileLink": "admin_perfil.html"
