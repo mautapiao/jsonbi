@@ -1,6 +1,6 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "category": "Hotel",
     "size": "Grande",
     "location": "Página Principal",
@@ -11,7 +11,7 @@
     "description": "Anuncio destacado en el header principal"
   },
   {
-    "id": "2",
+    "id": 2,
     "category": "Camping",
     "size": "Pequeño",
     "location": "Sección Hospedaje",
