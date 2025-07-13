@@ -1,24 +1,24 @@
 [
-    {
-      "id": "1",
-      "category": "Hotel",
-      "size": "Grande",
-      "location": "Página Principal",
-      "dailyPrice": "$5.000",
-      "weeklyPrice": "$30.000",
-      "monthlyPrice": "$100.000",
-      "annualPrice": "$900.000",
-      "description": "Anuncio destacado en el header principal",
-    },
-    {
-      "id": "2",
-      "category": "Camping",
-      "size": "Pequeño",
-      "location": "Sección Hospedaje",
-      "dailyPrice": "$2.000",
-      "weeklyPrice": "$12.000",
-      "monthlyPrice": "$40.000",
-      "annualPrice": "$300.000",
-      "description": "Anuncio lateral para visibilidad económica",
-    }
-  ]
+  {
+    "id": "1",
+    "category": "Hotel",
+    "size": "Grande",
+    "location": "Página Principal",
+    "dailyPrice": "$5.000",
+    "weeklyPrice": "$30.000",
+    "monthlyPrice": "$100.000",
+    "annualPrice": "$900.000",
+    "description": "Anuncio destacado en el header principal"
+  },
+  {
+    "id": "2",
+    "category": "Camping",
+    "size": "Pequeño",
+    "location": "Sección Hospedaje",
+    "dailyPrice": "$2.000",
+    "weeklyPrice": "$12.000",
+    "monthlyPrice": "$40.000",
+    "annualPrice": "$300.000",
+    "description": "Anuncio lateral para visibilidad económica"
+  }
+]
