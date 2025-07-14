@@ -1,6 +1,6 @@
  [
     {
-      "id": "1",
+      "id": 1,
       "sendDate": "2025-10-15",
       "category": "Restaurant",
       "imageSrc": "img/elplateado.png",
@@ -12,7 +12,7 @@
       "paid": "true",
     },
     {
-      "id": "2",
+      "id": 2,
       "sendDate": "2025-10-14",
       "category": "Evento",
       "imageSrc": "img/copa_bahia.png",
@@ -24,7 +24,7 @@
       "paid": "false",
     },
     {
-      "id": "3",
+      "id": 3,
       "sendDate": "2025-10-13",
       "category": "Evento",
       "imageSrc": "img/festival_xii.png",
@@ -36,7 +36,7 @@
       "paid": "true",
     },
     {
-      "id": "4",
+      "id": 4,
       "sendDate": "2025-10-13",
       "category": "Tour",
       "imageSrc": "img/playas.png",
